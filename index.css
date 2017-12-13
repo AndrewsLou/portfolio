@@ -9,3 +9,8 @@ h1 {
 	font-family: Arial;
 	color: gray;
 }
+.background {
+	background-image: url("background.jpg");
+	padding: 250px 0;
+	margin: 30px;
+}
