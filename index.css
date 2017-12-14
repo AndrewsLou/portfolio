@@ -5,8 +5,17 @@ body {
 	background-position: center top;
 	background-size: cover;
 }
-h1 {
-	font size: 32px;
+
+header {
 	font-family: Arial;
+}
+
+header h1 {
+	font-size: 32px;
 	color: gray;
+}
+
+header p {
+	font-size: 16px;
+	color: black;
 }
