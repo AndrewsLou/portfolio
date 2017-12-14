@@ -1,10 +1,9 @@
 body {
-	height: 100%;
-	margin: 1;
+	margin: 0;
 	text-align: center;
-	width: 100%;
-	background-image: url("https://photos.app.goo.gl/AMgPTWc4eI4fjEqf1");
-	padding: 250px 0;
+	background-image: url('https://photos.app.goo.gl/AMgPTWc4eI4fjEqf1');
+	background-position: center top;
+	background-size: cover;
 }
 h1 {
 	font size: 32px;
