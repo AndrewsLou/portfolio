@@ -9,7 +9,7 @@ h1 {
 	font-family: Arial;
 	color: gray;
 }
-.background {
+body {
 	background-image: url("https://photos.app.goo.gl/AMgPTWc4eI4fjEqf1");
 	padding: 250px 0;
 	margin: 30px;
