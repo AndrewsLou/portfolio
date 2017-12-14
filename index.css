@@ -1,6 +1,5 @@
 body {
 	margin: 0;
-	text-align: center;
 	background-image: url('Background.jpg');
 	background-position: center top;
 	background-size: cover;
@@ -15,7 +14,9 @@ header h1 {
 	color: gray;
 }
 
-header p {
+header nav {
 	font-size: 16px;
 	color: black;
+	display: flex;
+	justify-content: flex-end;
 }
